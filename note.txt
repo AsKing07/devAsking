@@ -1,4 +1,13 @@
 Mardi 19 Juillet 2022
     -HTML/CSS
     -PHP
-    -
+    
+Mercredi 20 Juillet 2022
+    -HTML/CSS
+    -PHP
+
+Jeudi 21 Juillet 2022
+    -PHP
+
+Vendredi 22 Juillet 2022
+    -Bootstrap
