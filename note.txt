@@ -11,3 +11,6 @@ Jeudi 21 Juillet 2022
 
 Vendredi 22 Juillet 2022
     -Bootstrap
+     .Modèle en grille
+       *row 
+       *column
