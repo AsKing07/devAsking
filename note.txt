@@ -14,3 +14,7 @@ Vendredi 22 Juillet 2022
      .Modèle en grille
        *row 
        *column
+     .Quelques formes formes Bootstrap
+        *Navbar
+        *Card
+        *Carrousel
